@@ -1,0 +1,55 @@
+name: Build Calendar Feed
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Every 6 hours
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Create config
+        env:
+          CALENDAR_CONFIG: ${{ secrets.CALENDAR_CONFIG }}
+          TEAMSNAP_ICAL_URL: ${{ secrets.TEAMSNAP_ICAL_URL }}
+          SPORTSYOU_ICAL_URL: ${{ secrets.SPORTSYOU_ICAL_URL }}
+          BLAST_ICAL_URL: ${{ secrets.BLAST_ICAL_URL }}
+        run: |
+          if [ -n "$CALENDAR_CONFIG" ]; then
+            echo "$CALENDAR_CONFIG" > config.yaml
+          else
+            echo "ical_sources:" > config.yaml
+            for var in TEAMSNAP_ICAL_URL SPORTSYOU_ICAL_URL BLAST_ICAL_URL; do
+              url="${!var}"
+              if [ -n "$url" ]; then
+                echo "  - url: \"$url\"" >> config.yaml
+                echo "    label: null" >> config.yaml
+              fi
+            done
+          fi
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build feed
+        run: python -m src.main
+
+      - name: Prepare Pages artifact
+        run: |
+          mkdir -p output
+          cp feed.ics output/
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          publish_branch: gh-pages

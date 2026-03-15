@@ -1,0 +1,25 @@
+# Copy to config.yaml and fill in your values.
+# config.yaml is gitignored and will NOT be committed.
+#
+# Get iCal URLs from each app:
+#   - TeamSnap: Schedule tab → Sync Calendar / Export → Subscribe
+#   - sportsYou: Calendar → Export / Subscribe
+#   - Blast: Calendar settings → iCal export (if available)
+#
+# Labels are prefixed to each event title (e.g. "Kid 1 - Hockey: Game vs Eagles")
+# so you can tell which kid/team each event is for.
+
+ical_sources:
+  # - url: "https://example.com/teamsnap/team123.ics"
+  #   label: "Kid 1 - Hockey"
+  # - url: "https://example.com/teamsnap/team456.ics"
+  #   label: "Kid 1 - Hockey (travel)"
+  # - url: "https://example.com/blast/schedule.ics"
+  #   label: "Kid 2 - Lacrosse"
+
+# Gamesheets API (optional - hockey league schedule)
+# Contact gamesheetinc.com for API access
+gamesheets:
+  enabled: false
+  # api_key: "your-api-key"
+  # api_url: "https://api.gamesheetinc.com/v1/schedule"  # example

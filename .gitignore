@@ -1,5 +1,8 @@
 # Config with secrets - use config.example.yaml as template
 config.yaml
+
+# Generated output
+feed.ics
 .env
 .env.local
 *.local
