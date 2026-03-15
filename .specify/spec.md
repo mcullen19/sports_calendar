@@ -28,7 +28,7 @@ Checking each app separately is time-consuming and error-prone. A single consoli
 3. **Output a single iCal feed**
    - Valid RFC 5545 format
    - Usable by Skylight's "Subscribe to calendar" feature
-   - Human-readable event titles (e.g., "Kid 1 – Hockey vs Eagles" or "Kid 2 – Lacrosse practice")
+   - Configurable labels per source (e.g., "Kid 1 – Hockey: Game vs Eagles") so events identify which kid/team
 
 4. **Run on a schedule**
    - Refresh the aggregated feed periodically (e.g., every 6 hours)
@@ -47,11 +47,12 @@ Checking each app separately is time-consuming and error-prone. A single consoli
 
 ## User Journey
 
-1. User configures iCal URLs and Gamesheets API credentials (via repo secrets or config)
-2. GitHub Action runs on schedule, fetches all sources, merges, deduplicates, outputs `feed.ics`
-3. Action publishes `feed.ics` to GitHub Pages
-4. User adds the feed URL to Skylight as a subscribed calendar
-5. Skylight displays the consolidated schedule; updates appear when the action next runs
+1. User creates `config.yaml` from template with `ical_sources` (url + optional label per source)
+2. Locally: run `python -m src.main`; output is `feed.ics`
+3. For GitHub: user adds `CALENDAR_CONFIG` secret (full config YAML) or individual URL secrets
+4. GitHub Action runs on schedule or manual trigger, fetches all sources, merges, deduplicates, outputs `feed.ics`
+5. Action publishes `feed.ics` to `gh-pages` branch; GitHub Pages serves it
+6. User adds the feed URL to Skylight as a subscribed calendar; Skylight displays consolidated schedule
 
 ## Success Criteria
 

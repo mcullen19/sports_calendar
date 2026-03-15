@@ -6,7 +6,7 @@ Implement fetching of iCal content from configurable URLs.
 
 ## Acceptance Criteria
 
-- [ ] Load config (YAML or env vars) with iCal URLs
-- [ ] HTTP GET each URL with timeout and error handling
-- [ ] Return raw iCal content (string/bytes) per source
-- [ ] Skip sources that fail; log errors
+- [x] Load config from config.yaml (PyYAML)
+- [x] `fetch_labeled_icals(sources)` accepts list of `{url, label}`; returns `[(content, label), ...]`
+- [x] HTTP GET each URL with timeout (30s) and error handling
+- [x] Skip sources that fail; log warnings

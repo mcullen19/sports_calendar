@@ -4,9 +4,9 @@
 
 Implement or stub Gamesheets API integration for hockey league schedule.
 
-## Acceptance Criteria
+## Status: Stubbed
 
-- [ ] Config entry for Gamesheets API key/endpoint
+- [x] Config entry in config.example.yaml (`gamesheets.enabled`, `api_key`, `api_url`)
+- [x] `fetch_gamesheets(api_url, api_key)` in fetch.py; returns None (not implemented)
 - [ ] Fetch schedule data (structure TBD from API docs)
-- [ ] Convert API response to icalendar VEVENT format
-- [ ] Graceful skip if not configured or API unavailable
+- [ ] Convert API response to icalendar VEVENT format and merge
