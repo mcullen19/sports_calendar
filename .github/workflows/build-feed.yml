@@ -5,18 +5,19 @@ on:
     - cron: "0 */6 * * *"  # Every 6 hours
   workflow_dispatch:  # Manual trigger
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write  # Required for peaceiris/actions-gh-pages to push to gh-pages
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
