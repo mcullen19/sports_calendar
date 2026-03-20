@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//Family Sports Calendar//Aggregator//EN
 X-WR-CALNAME:Family Sports Calendar
 BEGIN:VEVENT
-SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs MassConn-Grimson
-DTSTART;TZID=America/New_York:20250920T113000
-DTEND;TZID=America/New_York:20250920T113000
-DTSTAMP:20250919T122442
-UID:9277555-350308536
-SEQUENCE:3
-DESCRIPTION:Location: Enfield Twins Rink\n   (Arrival Time: 11:30 AM (East
- ern Time (US & Canada))) 
-LAST-MODIFIED:20250919T122442
-LOCATION:1 Prior Rd\, Enfield\, CT 06082
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - practice
 DTSTART;TZID=America/New_York:20250922T181000
 DTEND;TZID=America/New_York:20250922T194000
@@ -1172,7 +1160,7 @@ BEGIN:VEVENT
 SUMMARY:Boys Lacrosse: 10U Red Practice 
 DTSTART;TZID=America/New_York:20260308T130000
 DURATION:PT1H30M
-DTSTAMP:20260320T130229Z
+DTSTAMP:20260320T185234Z
 UID:blastathletics:production:calendar_events:476152
 SEQUENCE:2
 RRULE:FREQ=WEEKLY;UNTIL=20260322T235959;INTERVAL=1;BYDAY=SU;WKST=SU
@@ -1185,7 +1173,7 @@ BEGIN:VEVENT
 SUMMARY:Boys Lacrosse: 12 Red Practice 
 DTSTART;TZID=America/New_York:20260308T130000
 DTEND;TZID=America/New_York:20260308T143000
-DTSTAMP:20260320T130229Z
+DTSTAMP:20260320T185234Z
 UID:blastathletics:production:calendar_events:503650
 SEQUENCE:0
 DESCRIPTION:https://www.blastathletics.com/calendar_events/503650
@@ -1196,7 +1184,7 @@ BEGIN:VEVENT
 SUMMARY:Boys Lacrosse: 12 Red Practice 
 DTSTART;TZID=America/New_York:20260315T130000
 DTEND;TZID=America/New_York:20260315T143000
-DTSTAMP:20260320T130229Z
+DTSTAMP:20260320T185234Z
 UID:blastathletics:production:calendar_events:503651
 SEQUENCE:0
 DESCRIPTION:https://www.blastathletics.com/calendar_events/503651
@@ -1207,7 +1195,7 @@ BEGIN:VEVENT
 SUMMARY:Boys Lacrosse: 12 Red Practice 
 DTSTART;TZID=America/New_York:20260322T130000
 DTEND;TZID=America/New_York:20260322T143000
-DTSTAMP:20260320T130229Z
+DTSTAMP:20260320T185234Z
 UID:blastathletics:production:calendar_events:503652
 SEQUENCE:0
 DESCRIPTION:https://www.blastathletics.com/calendar_events/503652
@@ -1218,7 +1206,7 @@ BEGIN:VEVENT
 SUMMARY:Boys Lacrosse: 10U Red Practice 
 DTSTART;TZID=America/New_York:20260310T170000
 DTEND;TZID=America/New_York:20260310T180000
-DTSTAMP:20260320T130229Z
+DTSTAMP:20260320T185234Z
 UID:blastathletics:production:calendar_events:503656
 SEQUENCE:0
 DESCRIPTION:https://www.blastathletics.com/calendar_events/503656
@@ -1229,7 +1217,7 @@ BEGIN:VEVENT
 SUMMARY:Boys Lacrosse: 10U Red Practice 
 DTSTART;TZID=America/New_York:20260324T170000
 DTEND;TZID=America/New_York:20260324T180000
-DTSTAMP:20260320T130229Z
+DTSTAMP:20260320T185234Z
 UID:blastathletics:production:calendar_events:503657
 SEQUENCE:0
 DESCRIPTION:https://www.blastathletics.com/calendar_events/503657
@@ -1240,7 +1228,7 @@ BEGIN:VEVENT
 SUMMARY:Boys Lacrosse: 12U Red Practice 
 DTSTART;TZID=America/New_York:20260310T173000
 DTEND;TZID=America/New_York:20260310T183000
-DTSTAMP:20260320T130229Z
+DTSTAMP:20260320T185234Z
 UID:blastathletics:production:calendar_events:503660
 SEQUENCE:0
 DESCRIPTION:https://www.blastathletics.com/calendar_events/503660
@@ -1251,7 +1239,7 @@ BEGIN:VEVENT
 SUMMARY:Boys Lacrosse: 12U Red Practice 
 DTSTART;TZID=America/New_York:20260318T200000
 DTEND;TZID=America/New_York:20260318T210000
-DTSTAMP:20260320T130229Z
+DTSTAMP:20260320T185234Z
 UID:blastathletics:production:calendar_events:503665
 SEQUENCE:0
 DESCRIPTION:https://www.blastathletics.com/calendar_events/503665
@@ -1262,7 +1250,7 @@ BEGIN:VEVENT
 SUMMARY:Boys Lacrosse: 12U Red Practice 
 DTSTART;TZID=America/New_York:20260325T200000
 DTEND;TZID=America/New_York:20260325T210000
-DTSTAMP:20260320T130229Z
+DTSTAMP:20260320T185234Z
 UID:blastathletics:production:calendar_events:503668
 SEQUENCE:0
 DESCRIPTION:https://www.blastathletics.com/calendar_events/503668
@@ -1273,7 +1261,7 @@ BEGIN:VEVENT
 SUMMARY:Boys Lacrosse: LAX JAM 
 DTSTART;TZID=America/New_York:20260327T080000
 DTEND;TZID=America/New_York:20260328T210000
-DTSTAMP:20260320T130229Z
+DTSTAMP:20260320T185234Z
 UID:blastathletics:production:calendar_events:503671
 SEQUENCE:0
 DESCRIPTION:https://www.blastathletics.com/calendar_events/503671
@@ -1284,7 +1272,7 @@ BEGIN:VEVENT
 SUMMARY:Boys Lacrosse: LAX JAM
 DTSTART;TZID=America/New_York:20260327T080000
 DTEND;TZID=America/New_York:20260328T210000
-DTSTAMP:20260320T130229Z
+DTSTAMP:20260320T185234Z
 UID:blastathletics:production:calendar_events:503673
 SEQUENCE:0
 DESCRIPTION:Instructions: TIMES TBD\n\nhttps://www.blastathletics.com/cale
@@ -1296,7 +1284,7 @@ BEGIN:VEVENT
 SUMMARY:Boys Lacrosse: 10U Red Practice 
 DTSTART;TZID=America/New_York:20260331T170000
 DTEND;TZID=America/New_York:20260331T180000
-DTSTAMP:20260320T130229Z
+DTSTAMP:20260320T185234Z
 UID:blastathletics:production:calendar_events:508757
 SEQUENCE:0
 DESCRIPTION:https://www.blastathletics.com/calendar_events/508757
