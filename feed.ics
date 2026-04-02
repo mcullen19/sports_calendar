@@ -1196,7 +1196,7 @@ BEGIN:VEVENT
 SUMMARY:Boys Lacrosse: Practice
 DTSTART;TZID=America/New_York:20260401T170000
 DTEND;TZID=America/New_York:20260401T190000
-DTSTAMP:20260402T071452Z
+DTSTAMP:20260402T131632Z
 UID:blastathletics:production:calendar_events:511867
 SEQUENCE:0
 DESCRIPTION:Notes: 5-530 is skills then team practice\n\nhttps://www.blast
