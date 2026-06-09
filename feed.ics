@@ -808,6 +808,58 @@ LAST-MODIFIED:20260502T140200
 LOCATION:132 Hobomock St\, Pembroke\, MA 02359
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Boys Lacrosse: 10U Red Practice
+DTSTART;TZID=America/New_York:20260413T173000
+DURATION:PT1H30M
+DTSTAMP:20260609T200734Z
+UID:blastathletics:production:calendar_events:513790
+SEQUENCE:0
+RRULE:FREQ=WEEKLY;UNTIL=20260608T035959Z;INTERVAL=1;BYDAY=MO,WE;WKST=SU
+EXDATE;TZID=America/New_York:20260520T173000,20260525T173000
+DESCRIPTION:Field/Court: Practice Field \n\nhttps://www.blastathletics.com
+ /calendar_events/513790
+LOCATION:14 Humphrey rd \, Derry \, NH
+URL;VALUE=URI:https://www.blastathletics.com/calendar_events/513790
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boys Lacrosse: 12U Red Practice
+DTSTART;TZID=America/New_York:20260414T173000
+DURATION:PT1H30M
+DTSTAMP:20260609T200734Z
+UID:blastathletics:production:calendar_events:513792
+SEQUENCE:0
+RRULE:FREQ=WEEKLY;UNTIL=20260608T035959Z;INTERVAL=1;BYDAY=TU,TH;WKST=SU
+EXDATE;TZID=America/New_York:20260430T173000,20260514T173000,20260519T1730
+ 00,20260521T173000
+DESCRIPTION:Field/Court: Practice Field \n\nhttps://www.blastathletics.com
+ /calendar_events/513792
+LOCATION:14 Humphrey rd \, Derry \, NH
+URL;VALUE=URI:https://www.blastathletics.com/calendar_events/513792
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boys Lacrosse: Derry Youth Lacrosse vs Bedford Youth lacrosse
+DTSTART;TZID=America/New_York:20260607T160000
+DTEND;TZID=America/New_York:20260607T190000
+DTSTAMP:20260609T200734Z
+UID:blastathletics:production:calendar_events:519640
+SEQUENCE:0
+DESCRIPTION:Field/Court: Field 2\n\nhttps://www.blastathletics.com/calenda
+ r_events/519640
+LOCATION:412 Boston Post Road\, Amherst\, NH
+URL;VALUE=URI:https://www.blastathletics.com/calendar_events/519640
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boys Lacrosse: Game 2
+DTSTART;TZID=America/New_York:20260607T190000
+DTEND;TZID=America/New_York:20260607T220000
+DTSTAMP:20260609T200734Z
+UID:blastathletics:production:calendar_events:519642
+SEQUENCE:2
+DESCRIPTION:https://www.blastathletics.com/calendar_events/519642
+LOCATION:
+URL;VALUE=URI:https://www.blastathletics.com/calendar_events/519642
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Owen - Top Gun: 2016 Tier 1 Luccisano - 2025/2026 Season - PLAYOFF
  S - vs Flames
 DTSTART:20260301T153000Z
