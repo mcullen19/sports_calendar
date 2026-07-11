@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//Family Sports Calendar//Aggregator//EN
 X-WR-CALNAME:Family Sports Calendar
 BEGIN:VEVENT
-SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - Scimmage
-DTSTART;TZID=America/New_York:20260110T154027
-DTEND;TZID=America/New_York:20260110T154027
-DTSTAMP:20260110T081339
-UID:9277555-360920947
-SEQUENCE:2
-DESCRIPTION:Location: Essex Sports Center\n   (Arrival Time:  3:40 PM (Eas
- tern Time (US & Canada))) 
-LAST-MODIFIED:20260110T081339
-LOCATION:15 Manning Ave\nMiddleton MA 01949\nUnited States
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - practice
 DTSTART;TZID=America/New_York:20260112T192000
 DTEND;TZID=America/New_York:20260112T192000
