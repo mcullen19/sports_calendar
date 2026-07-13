@@ -4,18 +4,6 @@ PRODID:-//Family Sports Calendar//Aggregator//EN
 X-WR-CALNAME:Family Sports Calendar
 BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - practice
-DTSTART;TZID=America/New_York:20260112T192000
-DTEND;TZID=America/New_York:20260112T192000
-DTSTAMP:20260111T210736
-UID:9277555-360442068
-SEQUENCE:2
-DESCRIPTION:Location: Salem Ice Center\n   (Arrival Time:  7:20 PM (Easter
- n Time (US & Canada))) 
-LAST-MODIFIED:20260111T210736
-LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - practice
 DTSTART;TZID=America/New_York:20260114T200000
 DTEND;TZID=America/New_York:20260114T200000
 DTSTAMP:20260113T211053
