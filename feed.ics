@@ -454,9 +454,9 @@ BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - Charlie's birthday party
 DTSTART;TZID=America/New_York:20260823T140000
 DTEND;TZID=America/New_York:20260823T180000
-DTSTAMP:20260731T095610
+DTSTAMP:20260731T191350
 UID:9277555-370831388
-SEQUENCE:0
+SEQUENCE:3
 DESCRIPTION:Location: Charlie's house !!\n Trade skates in for swimsuits.\
  n\nPlease join us as we celebrate the start of another hockey season and C
  harlie's belated 12th birthday! Charlie turned 12 while he was at camp in 
@@ -469,68 +469,8 @@ DESCRIPTION:Location: Charlie's house !!\n Trade skates in for swimsuits.\
  We hope you can join us for a fun afternoon. Please let us know if you'll 
  be able to make it.  (Arrival Time:  2:00 PM (Eastern Time (US & Canada)))
   \n\nAssignments:\n\nbring your bathing suit !! : Unassigned\n\n
-LAST-MODIFIED:20260731T095610
+LAST-MODIFIED:20260731T191350
 LOCATION:4 Timothy Dr Andover\, MA\, United States
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Owen - Top Gun: 2016 Tier 1 - Considine 2026/2027 - PARITY PRACTIC
- E
-DTSTART:20260401T212000Z
-DTEND:20260401T224000Z
-UID:ev-d3a69378-9ed0-4e91-b98e-2cb448bb64e5@calendar.sportsyou.com
-LOCATION:Icenter Salem\, NH 03079
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Owen - Top Gun: 2016 Tier 1 - Considine 2026/2027 - PARITY PRACTIC
- E
-DTSTART:20260403T212000Z
-DTEND:20260403T224000Z
-UID:ev-7dda98cf-26c3-419b-af31-78ecb560f337@calendar.sportsyou.com
-LOCATION:Icenter Salem\, NH 03079
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Owen - Top Gun: 2016 Tier 1 - Considine 2026/2027 - PARITY PRACTIC
- E
-DTSTART:20260406T220000Z
-DTEND:20260406T231000Z
-UID:ev-afb5efd4-9529-40a6-9292-961165d94cb5@calendar.sportsyou.com
-LOCATION:Icenter Salem\, NH 03079
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Owen - Top Gun: 2016 Tier 1 - Considine 2026/2027 - PARITY PRACTIC
- E
-DTSTART:20260408T211000Z
-DTEND:20260408T224000Z
-UID:ev-bb6a02a8-110f-4167-98a4-9e398bd392cf@calendar.sportsyou.com
-LOCATION:Icenter Salem\, NH 03079
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Owen - Top Gun: 2016 Tier 1 - Considine 2026/2027 - PARITY GAME 1
-DTSTART:20260411T164000Z
-DTEND:20260411T180000Z
-UID:ev-dfa6357e-97f8-4e5b-9e71-052e6d065cbb@calendar.sportsyou.com
-LOCATION:Rockland Ice Rink Rockland\, MA 02370
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Owen - Top Gun: 2016 Tier 1 - Considine 2026/2027 - PARITY GAME 2
-DTSTART:20260411T204000Z
-DTEND:20260411T220000Z
-UID:ev-394456b9-612e-4259-9093-a311adaa2e45@calendar.sportsyou.com
-LOCATION:Rockland Ice Rink Rockland\, MA 02370
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Owen - Top Gun: 2016 Tier 1 - Considine 2026/2027 - PARITY GAME 3
-DTSTART:20260412T144000Z
-DTEND:20260412T160000Z
-UID:ev-b4982caf-a66c-44d4-8f89-618c32d727aa@calendar.sportsyou.com
-LOCATION:The Bog Ice Arena Kingston\, MA 02364
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Owen - Top Gun: 2016 Tier 1 - Considine 2026/2027 - PARITY GAME 4
-DTSTART:20260412T184000Z
-DTEND:20260412T200000Z
-UID:ev-ae633ba8-e4ea-44ac-b4b4-4c7433005d4d@calendar.sportsyou.com
-LOCATION:The Bog Ice Arena Kingston\, MA 02364
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Owen - Top Gun: 2016 Tier 1 - Considine 2026/2027 - Top Gun Presea
