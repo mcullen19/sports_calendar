@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//Family Sports Calendar//Aggregator//EN
 X-WR-CALNAME:Family Sports Calendar
 BEGIN:VEVENT
-SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Bay State Breakers
-DTSTART;TZID=America/New_York:20260201T104000
-DTEND;TZID=America/New_York:20260201T104000
-DTSTAMP:20260131T130101
-UID:9277555-357643049
-SEQUENCE:0
-DESCRIPTION:Location: Hobomock Rink - Arena 1\n   (Arrival Time: 10:40 AM 
- (Eastern Time (US & Canada))) 
-LAST-MODIFIED:20260131T130101
-LOCATION:132 Hobomock St\, Pembroke\, MA 02359
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Islanders East 14 Palla
  dino
 DTSTART;TZID=America/New_York:20260201T163000
