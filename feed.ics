@@ -3,19 +3,6 @@ VERSION:2.0
 PRODID:-//Family Sports Calendar//Aggregator//EN
 X-WR-CALNAME:Family Sports Calendar
 BEGIN:VEVENT
-SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Islanders East 14 Palla
- dino
-DTSTART;TZID=America/New_York:20260201T163000
-DTEND;TZID=America/New_York:20260201T163000
-DTSTAMP:20260131T190509
-UID:9277555-357643141
-SEQUENCE:0
-DESCRIPTION:Location: Salem Ice Center - NHL rink\n   (Arrival Time:  4:30
-  PM (Eastern Time (US & Canada))) 
-LAST-MODIFIED:20260131T190509
-LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - practice
 DTSTART;TZID=America/New_York:20260202T192000
 DTEND;TZID=America/New_York:20260202T192000
