@@ -285,46 +285,46 @@ BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - Charlie's birthday party
 DTSTART;TZID=America/New_York:20260823T140000
 DTEND;TZID=America/New_York:20260823T180000
-DTSTAMP:20260731T191350
+DTSTAMP:20260819T083100
 UID:9277555-370831388
-SEQUENCE:3
-DESCRIPTION:Location: Charlie's house !!\n Trade skates in for swimsuits.\
- n\nPlease join us as we celebrate the start of another hockey season and C
- harlie's belated 12th birthday! Charlie turned 12 while he was at camp in 
- July\, so we're looking forward to celebrating with family and friends.\n\
- nSunday\, August 23 2:00 PM- 6:00 PM\n\nCome spend the afternoon swimming\
- , relaxing\, and hanging out with teammates before the hockey season gets 
- underway.\n\nWe'll be providing pizza and drinks. If you'd like to bring a
- ppetizer or dessert to share\, you're more than welcome to. Our only reque
- st is that you take any leftovers home with you at the end of the day.\n\n
- We hope you can join us for a fun afternoon. Please let us know if you'll 
- be able to make it.  (Arrival Time:  2:00 PM (Eastern Time (US & Canada)))
-  \n\nAssignments:\n\nbring your bathing suit !! : Unassigned\n\n
-LAST-MODIFIED:20260731T191350
+SEQUENCE:5
+DESCRIPTION:Location: Charlie's house !!\n Trade skates in for swimsuits.
+ \n\nPlease join us as we celebrate the start of another hockey season and 
+ Charlie's belated 12th birthday! Charlie turned 12 while he was at camp in
+  July\, so we're looking forward to celebrating with family and friends.\n
+ \nSunday\, August 23 2:00 PM- 6:00 PM\n\nCome spend the afternoon swimming
+ \, relaxing\, and hanging out with teammates before the hockey season gets
+  underway.\n\nWe'll be providing pizza and drinks. If you'd like to bring 
+ appetizer or dessert to share\, you're more than welcome to. Our only requ
+ est is that you take any leftovers home with you at the end of the day.\n
+ \nWe hope you can join us for a fun afternoon. Please let us know if you'l
+ l be able to make it.  (Arrival Time:  2:00 PM (Eastern Time (US & Canada)
+ )) \n\nAssignments:\n\nbring your bathing suit !! : Unassigned\n\n
+LAST-MODIFIED:20260819T083100
 LOCATION:4 Timothy Dr Andover\, MA\, United States
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - Practice
 DTSTART;TZID=America/New_York:20260826T190012
 DTEND;TZID=America/New_York:20260826T203012
-DTSTAMP:20260818T214037
+DTSTAMP:20260819T083117
 UID:9277555-372053664
-SEQUENCE:0
+SEQUENCE:3
 DESCRIPTION:Location: Salem Ice Center\n   (Arrival Time:  7:00 PM (Easter
  n Time (US & Canada))) 
-LAST-MODIFIED:20260818T214037
+LAST-MODIFIED:20260819T083117
 LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - Prectice
 DTSTART;TZID=America/New_York:20260827T193037
 DTEND;TZID=America/New_York:20260827T210037
-DTSTAMP:20260818T222306
+DTSTAMP:20260819T083142
 UID:9277555-372056594
-SEQUENCE:0
+SEQUENCE:3
 DESCRIPTION:Location: Salem Ice Center\n   (Arrival Time:  7:30 PM (Easter
  n Time (US & Canada))) 
-LAST-MODIFIED:20260818T222306
+LAST-MODIFIED:20260819T083142
 LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
 END:VEVENT
 BEGIN:VEVENT
