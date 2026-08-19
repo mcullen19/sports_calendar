@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//Family Sports Calendar//Aggregator//EN
 X-WR-CALNAME:Family Sports Calendar
 BEGIN:VEVENT
-SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - practice
-DTSTART;TZID=America/New_York:20260218T200000
-DTEND;TZID=America/New_York:20260218T200000
-DTSTAMP:20260217T211115
-UID:9277555-360442196
-SEQUENCE:0
-DESCRIPTION:Location: Salem Ice Center\n   (Arrival Time:  8:00 PM (Easter
- n Time (US & Canada))) 
-LAST-MODIFIED:20260217T211115
-LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - USA GOLD breakfast
 DTSTART;TZID=America/New_York:20260222T073000
 DTEND;TZID=America/New_York:20260222T073000
@@ -314,6 +302,30 @@ DESCRIPTION:Location: Charlie's house !!\n Trade skates in for swimsuits.\
   \n\nAssignments:\n\nbring your bathing suit !! : Unassigned\n\n
 LAST-MODIFIED:20260731T191350
 LOCATION:4 Timothy Dr Andover\, MA\, United States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - Practice
+DTSTART;TZID=America/New_York:20260826T190012
+DTEND;TZID=America/New_York:20260826T203012
+DTSTAMP:20260818T214037
+UID:9277555-372053664
+SEQUENCE:0
+DESCRIPTION:Location: Salem Ice Center\n   (Arrival Time:  7:00 PM (Easter
+ n Time (US & Canada))) 
+LAST-MODIFIED:20260818T214037
+LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - Prectice
+DTSTART;TZID=America/New_York:20260827T193037
+DTEND;TZID=America/New_York:20260827T210037
+DTSTAMP:20260818T222306
+UID:9277555-372056594
+SEQUENCE:0
+DESCRIPTION:Location: Salem Ice Center\n   (Arrival Time:  7:30 PM (Easter
+ n Time (US & Canada))) 
+LAST-MODIFIED:20260818T222306
+LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - practice
