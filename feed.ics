@@ -328,6 +328,30 @@ LAST-MODIFIED:20260819T083142
 LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - Top Gun Tournament
+DTSTART:20260828T000000
+DTEND:20260829T000000
+DTSTAMP:20260820T180903
+UID:9277555-372184676
+SEQUENCE:0
+DESCRIPTION:Location: Salem Ice Center\n   (Arrival Time:  6:05 PM (Easter
+ n Time (US & Canada))) 
+LAST-MODIFIED:20260820T180903
+LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - Top Gun Tournament
+DTSTART:20260829T000000
+DTEND:20260830T000000
+DTSTAMP:20260820T180833
+UID:9277555-372184661
+SEQUENCE:0
+DESCRIPTION:Location: Salem Ice Center\n   (Arrival Time:  6:05 PM (Easter
+ n Time (US & Canada))) 
+LAST-MODIFIED:20260820T180833
+LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - practice
 DTSTART;TZID=America/New_York:20260831T182000
 DTEND;TZID=America/New_York:20260831T182000
@@ -724,32 +748,11 @@ UID:ev-0fb1fab5-08b0-4ed8-956d-d6a3cfc17fa4@calendar.sportsyou.com
 LOCATION:Icenter Salem\, NH 03079
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Owen - Top Gun: 2016 Tier 1 - Considine 2026/2027 - Top Gun Presea
- son Tournament
-DTSTART:20260828
-UID:ev-79c29360-2306-4668-a6aa-a329988ad4a9@calendar.sportsyou.com
-LOCATION:Icenter Salem\, NH 03079
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Owen - Top Gun: 2016 Tier 1 - Considine 2026/2027 - Pre Season Pra
  ctice
 DTSTART:20260828T213000Z
 DTEND:20260828T230000Z
 UID:ev-9b8564f2-258f-4f73-a2cf-e07283f09503@calendar.sportsyou.com
-LOCATION:Icenter Salem\, NH 03079
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Owen - Top Gun: 2016 Tier 1 - Considine 2026/2027 - Top Gun Presea
- son Tournament
-DTSTART:20260829
-UID:ev-ddf37ee5-9e42-4e0d-b709-5be34469ba32@calendar.sportsyou.com
-LOCATION:Icenter Salem\, NH 03079
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Owen - Top Gun: 2016 Tier 1 - Considine 2026/2027 - Top Gun Presea
- son Tournament
-DTSTART:20260830
-UID:ev-a783341c-7ece-4c35-8dfa-e746883b7815@calendar.sportsyou.com
 LOCATION:Icenter Salem\, NH 03079
 END:VEVENT
 BEGIN:VEVENT
