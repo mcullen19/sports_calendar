@@ -285,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - Charlie's birthday party
 DTSTART;TZID=America/New_York:20260823T140000
 DTEND;TZID=America/New_York:20260823T180000
-DTSTAMP:20260819T083100
+DTSTAMP:20260821T141016
 UID:9277555-370831388
 SEQUENCE:5
 DESCRIPTION:Location: Charlie's house !!\n Trade skates in for swimsuits.
@@ -300,7 +300,7 @@ DESCRIPTION:Location: Charlie's house !!\n Trade skates in for swimsuits.
  \nWe hope you can join us for a fun afternoon. Please let us know if you'l
  l be able to make it.  (Arrival Time:  2:00 PM (Eastern Time (US & Canada)
  )) \n\nAssignments:\n\nbring your bathing suit !! : Unassigned\n\n
-LAST-MODIFIED:20260819T083100
+LAST-MODIFIED:20260821T141016
 LOCATION:4 Timothy Dr Andover\, MA\, United States
 END:VEVENT
 BEGIN:VEVENT
@@ -753,6 +753,14 @@ SUMMARY:Owen - Top Gun: 2016 Tier 1 - Considine 2026/2027 - Pre Season Pra
 DTSTART:20260828T213000Z
 DTEND:20260828T230000Z
 UID:ev-9b8564f2-258f-4f73-a2cf-e07283f09503@calendar.sportsyou.com
+LOCATION:Icenter Salem\, NH 03079
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Owen - Top Gun: 2016 Tier 1 - Considine 2026/2027 - Scrimmage Agai
+ nst Avs Elite
+DTSTART:20260830T152000Z
+DTEND:20260830T170000Z
+UID:ev-9dc2ccfd-5401-4d34-bff6-97d12b15adb8@calendar.sportsyou.com
 LOCATION:Icenter Salem\, NH 03079
 END:VEVENT
 BEGIN:VEVENT
