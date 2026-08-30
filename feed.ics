@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//Family Sports Calendar//Aggregator//EN
 X-WR-CALNAME:Family Sports Calendar
 BEGIN:VEVENT
-SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Bulldogs
-DTSTART;TZID=America/New_York:20260228T200000
-DTEND;TZID=America/New_York:20260228T200000
-DTSTAMP:20260227T230219
-UID:9277555-363349451
-SEQUENCE:0
-DESCRIPTION:Location: New England Sports Center\n   (Arrival Time:  8:00 P
- M (Eastern Time (US & Canada))) 
-LAST-MODIFIED:20260227T230219
-LOCATION:121 Donald J Lynch Blvd Marlborough\, MA\, United States
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Boston Jr. Terriers-Bar
  ravecchio
 DTSTART;TZID=America/New_York:20260301T142000
@@ -268,28 +256,32 @@ LAST-MODIFIED:20260827T070447
 LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - possible scrimmage/ice t
+SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - Party for Cody and ice t
  ime
-DTSTART;TZID=America/New_York:20260830T140000
-DTEND;TZID=America/New_York:20260830T160000
-DTSTAMP:20260829T160203
+DTSTART;TZID=America/New_York:20260830T134500
+DTEND;TZID=America/New_York:20260830T134500
+DTSTAMP:20260829T210921
 UID:9277555-372525068
 SEQUENCE:5
-DESCRIPTION:Location: Salem Ice Center\n   (Arrival Time:  2:00 PM (Easter
- n Time (US & Canada))) 
-LAST-MODIFIED:20260829T160203
+DESCRIPTION:Location: Salem Ice Center\n HI everyone\,\n\nGood news and ba
+ d news. \n\nGood news : We are celebrating Cody's 12th birthday at 1:45 wi
+ th pizza and cake !!! \nBad news: there are no teams available to scrimmag
+ e so we are going to take advantage of the ice time at 2:45. The team will
+  learn a new pre-warm up routine and then have some fun with 3 v 3 or 4 v 
+ 4 !!  (Arrival Time:  1:45 PM (Eastern Time (US & Canada))) 
+LAST-MODIFIED:20260829T210921
 LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - practice
-DTSTART:20260831T000000
-DTEND:20260901T000000
-DTSTAMP:20260829T120249
+DTSTART;TZID=America/New_York:20260831T191000
+DTEND;TZID=America/New_York:20260831T191000
+DTSTAMP:20260829T210951
 UID:9277555-371679220
 SEQUENCE:0
-DESCRIPTION:Location: Salem Ice Center\n   (Arrival Time: 12:00 PM (Easter
+DESCRIPTION:Location: Salem Ice Center\n   (Arrival Time:  7:10 PM (Easter
  n Time (US & Canada))) 
-LAST-MODIFIED:20260829T120249
+LAST-MODIFIED:20260829T210951
 LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
 END:VEVENT
 BEGIN:VEVENT
