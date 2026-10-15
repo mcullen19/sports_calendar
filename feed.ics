@@ -443,6 +443,18 @@ LAST-MODIFIED:20261013T220437
 LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Mid Fairfield
+DTSTART;TZID=America/New_York:20261015T080000
+DTEND;TZID=America/New_York:20261015T080000
+DTSTAMP:20261015T120131
+UID:9277555-375191704
+SEQUENCE:0
+DESCRIPTION:Location: Lake Placid - 80 rink\n   (Arrival Time:  8:00 AM (E
+ astern Time (US & Canada))) \n\nAssignments:\n\nhome team : Unassigned\n\n
+LAST-MODIFIED:20261015T120131
+LOCATION:101 Olympic Dr\, Lake Placid\, NY 12946
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Providence Capitals- No
  rth Batista
 DTSTART;TZID=America/New_York:20261017T160500
@@ -503,6 +515,42 @@ DESCRIPTION:Location: Salem Ice Center - NHL rink\n   (Arrival Time:  7:00
   PM (Eastern Time (US & Canada))) 
 LAST-MODIFIED:20260907T140003
 LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Beaven County Badgers
+DTSTART;TZID=America/New_York:20261029T204500
+DTEND;TZID=America/New_York:20261029T204500
+DTSTAMP:20261015T120216
+UID:9277555-375191563
+SEQUENCE:0
+DESCRIPTION:Location: Lake Placid - Rink 32\n   (Arrival Time:  8:45 PM (E
+ astern Time (US & Canada))) 
+LAST-MODIFIED:20261015T120216
+LOCATION:101 Olympic Dr\, Lake Placid\, NY 12946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Forest Hill Force
+DTSTART;TZID=America/New_York:20261030T110000
+DTEND;TZID=America/New_York:20261030T110000
+DTSTAMP:20261015T120024
+UID:9277555-375191629
+SEQUENCE:0
+DESCRIPTION:Location: Lake Placid - 80 rink\n   (Arrival Time: 11:00 AM (E
+ astern Time (US & Canada))) \n\nAssignments:\n\nAway team : Unassigned\n\n
+LAST-MODIFIED:20261015T120024
+LOCATION:101 Olympic Dr\, Lake Placid\, NY 12946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Mid Fairfield
+DTSTART;TZID=America/New_York:20261031T080000
+DTEND;TZID=America/New_York:20261031T080000
+DTSTAMP:20261015T120341
+UID:9277555-375191933
+SEQUENCE:0
+DESCRIPTION:Location: Lake Placid - 80 rink\n   (Arrival Time:  8:00 AM (E
+ astern Time (US & Canada))) 
+LAST-MODIFIED:20261015T120341
+LOCATION:101 Olympic Dr\, Lake Placid\, NY 12946
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - practice
