@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//Family Sports Calendar//Aggregator//EN
 X-WR-CALNAME:Family Sports Calendar
 BEGIN:VEVENT
-SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - Parity Practice
-DTSTART;TZID=America/New_York:20260415T184000
-DTEND;TZID=America/New_York:20260415T201000
-DTSTAMP:20260414T201527
-UID:9277555-365953113
-SEQUENCE:0
-DESCRIPTION:Location: Salem Ice Center - OLY rink\n   (Arrival Time:  6:40
-  PM (Eastern Time (US & Canada))) 
-LAST-MODIFIED:20260414T201527
-LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - parity practice
 DTSTART;TZID=America/New_York:20260417T175000
 DTEND;TZID=America/New_York:20260417T192000
@@ -459,12 +447,12 @@ SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Providence Capitals- No
  rth Batista
 DTSTART;TZID=America/New_York:20261017T160500
 DTEND;TZID=America/New_York:20261017T160500
-DTSTAMP:20260807T125623
+DTSTAMP:20261015T182002
 UID:9277555-371262849
 SEQUENCE:0
 DESCRIPTION:Location: RI Sports Center\n   (Arrival Time:  4:05 PM (Easter
  n Time (US & Canada))) 
-LAST-MODIFIED:20260807T125623
+LAST-MODIFIED:20261015T182002
 LOCATION:1186 Eddie Dowling Highway ( rt 146) North SMITHFIELD\, RI
 END:VEVENT
 BEGIN:VEVENT
@@ -517,39 +505,52 @@ LAST-MODIFIED:20260907T140003
 LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Beaven County Badgers
-DTSTART;TZID=America/New_York:20261029T204500
-DTEND;TZID=America/New_York:20261029T204500
-DTSTAMP:20261015T120216
+SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - Opening ceremonies
+DTSTART;TZID=America/New_York:20261029T162000
+DTEND;TZID=America/New_York:20261029T162000
+DTSTAMP:20261015T191130
+UID:9277555-375216567
+SEQUENCE:2
+DESCRIPTION:Location: Lake Placid - 80' rink\n   (Arrival Time:  4:20 PM (
+ Eastern Time (US & Canada))) 
+LAST-MODIFIED:20261015T191130
+LOCATION:101 Olympic Dr\, Lake Placid\, NY 12946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) at Boston Jr Rangers
+DTSTART;TZID=America/New_York:20261029T201500
+DTEND;TZID=America/New_York:20261029T201500
+DTSTAMP:20261015T190119
 UID:9277555-375191563
 SEQUENCE:0
-DESCRIPTION:Location: Lake Placid - Rink 32\n   (Arrival Time:  8:45 PM (E
- astern Time (US & Canada))) 
-LAST-MODIFIED:20261015T120216
+DESCRIPTION:Location: Lake Placid - Rink 80'\n   (Arrival Time:  8:15 PM (
+ Eastern Time (US & Canada))) 
+LAST-MODIFIED:20261015T190119
 LOCATION:101 Olympic Dr\, Lake Placid\, NY 12946
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Forest Hill Force
-DTSTART;TZID=America/New_York:20261030T110000
-DTEND;TZID=America/New_York:20261030T110000
-DTSTAMP:20261015T120024
+DTSTART;TZID=America/New_York:20261030T101500
+DTEND;TZID=America/New_York:20261030T101500
+DTSTAMP:20261015T190210
 UID:9277555-375191629
 SEQUENCE:0
-DESCRIPTION:Location: Lake Placid - 80 rink\n   (Arrival Time: 11:00 AM (E
- astern Time (US & Canada))) \n\nAssignments:\n\nAway team : Unassigned\n\n
-LAST-MODIFIED:20261015T120024
+DESCRIPTION:Location: Lake Placid - Saranac rink\n   (Arrival Time: 10:15 
+ AM (Eastern Time (US & Canada))) \n\nAssignments:\n\nAway team : Unassigne
+ d\n\n
+LAST-MODIFIED:20261015T190210
 LOCATION:101 Olympic Dr\, Lake Placid\, NY 12946
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Mid Fairfield
+SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) at Stoneham Sparnets
 DTSTART;TZID=America/New_York:20261031T080000
 DTEND;TZID=America/New_York:20261031T080000
-DTSTAMP:20261015T120341
+DTSTAMP:20261015T190411
 UID:9277555-375191933
 SEQUENCE:0
-DESCRIPTION:Location: Lake Placid - 80 rink\n   (Arrival Time:  8:00 AM (E
- astern Time (US & Canada))) 
-LAST-MODIFIED:20261015T120341
+DESCRIPTION:Location: Lake Placid - 32' rink\n   (Arrival Time:  8:00 AM (
+ Eastern Time (US & Canada))) 
+LAST-MODIFIED:20261015T190411
 LOCATION:101 Olympic Dr\, Lake Placid\, NY 12946
 END:VEVENT
 BEGIN:VEVENT
