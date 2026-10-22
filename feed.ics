@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//Family Sports Calendar//Aggregator//EN
 X-WR-CALNAME:Family Sports Calendar
 BEGIN:VEVENT
-SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Islanders 2013 gold
-DTSTART;TZID=America/New_York:20260421T201000
-DTEND;TZID=America/New_York:20260421T201000
-DTSTAMP:20260421T000357
-UID:9277555-365764902
-SEQUENCE:3
-DESCRIPTION:Location: Conway Arena\n   (Arrival Time:  8:10 PM (Eastern Ti
- me (US & Canada))) 
-LAST-MODIFIED:20260421T000357
-LOCATION:5 Stadium Dr Nashau
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - parity practice
 DTSTART;TZID=America/New_York:20260422T184000
 DTEND;TZID=America/New_York:20260422T201000
