@@ -377,10 +377,11 @@ DTEND;TZID=America/New_York:20261015T080000
 DTSTAMP:20261015T120131
 UID:9277555-375191704
 SEQUENCE:0
-DESCRIPTION:Location: Lake Placid - 80 rink\n   (Arrival Time:  8:00 AM (E
- astern Time (US & Canada))) \n\nAssignments:\n\nhome team : Unassigned\n\n
+DESCRIPTION:Location: 213 Ampersand Ave - 80 rink\n   (Arrival Time:  8:00
+  AM (Eastern Time (US & Canada))) \n\nAssignments:\n\nhome team : Unassign
+ ed\n\n
 LAST-MODIFIED:20261015T120131
-LOCATION:101 Olympic Dr\, Lake Placid\, NY 12946
+LOCATION:213 Ampersand Ave\nSaranac Lake NY 12983\nUnited States
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Providence Capitals- No
@@ -462,10 +463,10 @@ DTEND;TZID=America/New_York:20261029T162000
 DTSTAMP:20261029T020029
 UID:9277555-375216567
 SEQUENCE:2
-DESCRIPTION:Location: Lake Placid - 80' rink\n   (Arrival Time:  4:20 PM (
- Eastern Time (US & Canada))) 
+DESCRIPTION:Location: 213 Ampersand Ave - 80' rink\n   (Arrival Time:  4:2
+ 0 PM (Eastern Time (US & Canada))) 
 LAST-MODIFIED:20261029T020029
-LOCATION:101 Olympic Dr\, Lake Placid\, NY 12946
+LOCATION:213 Ampersand Ave\nSaranac Lake NY 12983\nUnited States
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - Team pictures
@@ -487,10 +488,10 @@ DTEND;TZID=America/New_York:20261029T201500
 DTSTAMP:20261029T020036
 UID:9277555-375191563
 SEQUENCE:0
-DESCRIPTION:Location: Lake Placid - Rink 80'\n   (Arrival Time:  8:15 PM (
- Eastern Time (US & Canada))) 
+DESCRIPTION:Location: 213 Ampersand Ave - Rink 80'\n   (Arrival Time:  8:1
+ 5 PM (Eastern Time (US & Canada))) 
 LAST-MODIFIED:20261029T020036
-LOCATION:101 Olympic Dr\, Lake Placid\, NY 12946
+LOCATION:213 Ampersand Ave\nSaranac Lake NY 12983\nUnited States
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Forest Hill Force
@@ -524,10 +525,10 @@ DTEND;TZID=America/New_York:20261031T080000
 DTSTAMP:20261029T080039
 UID:9277555-375191933
 SEQUENCE:0
-DESCRIPTION:Location: Lake Placid - 32' rink\n   (Arrival Time:  8:00 AM (
- Eastern Time (US & Canada))) 
+DESCRIPTION:Location: 213 Ampersand Ave - 32' rink\n   (Arrival Time:  8:0
+ 0 AM (Eastern Time (US & Canada))) 
 LAST-MODIFIED:20261029T080039
-LOCATION:101 Olympic Dr\, Lake Placid\, NY 12946
+LOCATION:213 Ampersand Ave\nSaranac Lake NY 12983\nUnited States
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - Shoot out and relay
@@ -540,6 +541,18 @@ DESCRIPTION:Location: Rink 32' - 2634 main st lake placid\n   (Arrival Tim
  e:  1:00 PM (Eastern Time (US & Canada))) 
 LAST-MODIFIED:20261030T094424
 LOCATION:Lake Placid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) at 3rd place
+DTSTART;TZID=America/New_York:20261031T193000
+DTEND;TZID=America/New_York:20261031T193000
+DTSTAMP:20261031T095137
+UID:9277555-375851744
+SEQUENCE:0
+DESCRIPTION:Location: 213 Ampersand Ave - Saranac rink\n   (Arrival Time: 
+  7:30 PM (Eastern Time (US & Canada))) 
+LAST-MODIFIED:20261031T095137
+LOCATION:213 Ampersand Ave\nSaranac Lake NY 12983\nUnited States
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - practice
