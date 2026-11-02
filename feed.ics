@@ -3,18 +3,6 @@ VERSION:2.0
 PRODID:-//Family Sports Calendar//Aggregator//EN
 X-WR-CALNAME:Family Sports Calendar
 BEGIN:VEVENT
-SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - parity practice
-DTSTART;TZID=America/New_York:20260501T175000
-DTEND;TZID=America/New_York:20260501T192000
-DTSTAMP:20260501T140208
-UID:9277555-365953491
-SEQUENCE:5
-DESCRIPTION:Location: Salem Ice Center - NHL rink\n   (Arrival Time:  5:50
-  PM (Eastern Time (US & Canada))) 
-LAST-MODIFIED:20260501T140208
-LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Boston Jr Terriers whit
  e- Nones
 DTSTART;TZID=America/New_York:20260502T120000
@@ -558,12 +546,12 @@ BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - practice
 DTSTART;TZID=America/New_York:20261102T200000
 DTEND;TZID=America/New_York:20261102T200000
-DTSTAMP:20261031T221747
+DTSTAMP:20261101T210639
 UID:9277555-373387041
 SEQUENCE:0
 DESCRIPTION:Location: Salem Ice Center - OLY rink\n   (Arrival Time:  8:00
   PM (Eastern Time (US & Canada))) 
-LAST-MODIFIED:20261031T221747
+LAST-MODIFIED:20261101T210639
 LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
 END:VEVENT
 BEGIN:VEVENT
