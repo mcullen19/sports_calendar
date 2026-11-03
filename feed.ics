@@ -3,31 +3,6 @@ VERSION:2.0
 PRODID:-//Family Sports Calendar//Aggregator//EN
 X-WR-CALNAME:Family Sports Calendar
 BEGIN:VEVENT
-SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Providence Capitals Nor
- th- Charette
-DTSTART;TZID=America/New_York:20260503T092000
-DTEND;TZID=America/New_York:20260503T092000
-DTSTAMP:20260502T100153
-UID:9277555-367116676
-SEQUENCE:0
-DESCRIPTION:Location: Hobomock Rink - Rink 1\n   (Arrival Time:  9:20 AM (
- Eastern Time (US & Canada))) 
-LAST-MODIFIED:20260502T100153
-LOCATION:132 Hobomock St\, Pembroke\, MA 02359
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Boston Jr Eagles-Tobin
-DTSTART;TZID=America/New_York:20260503T132000
-DTEND;TZID=America/New_York:20260503T132000
-DTSTAMP:20260502T140200
-UID:9277555-367116698
-SEQUENCE:0
-DESCRIPTION:Location: Hobomock Rink - Rink 1\n   (Arrival Time:  1:20 PM (
- Eastern Time (US & Canada))) 
-LAST-MODIFIED:20260502T140200
-LOCATION:132 Hobomock St\, Pembroke\, MA 02359
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - Charlie's birthday party
 DTSTART;TZID=America/New_York:20260823T140000
 DTEND;TZID=America/New_York:20260823T180000
