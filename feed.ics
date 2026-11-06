@@ -517,28 +517,28 @@ LAST-MODIFIED:20261103T191458
 LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs IHC-14 Conway
-DTSTART;TZID=America/New_York:20261107T121000
-DTEND;TZID=America/New_York:20261107T121000
-DTSTAMP:20261105T132921
-UID:9277555-371263971
-SEQUENCE:0
-DESCRIPTION:Location: Merrimack College- Lawler Arena\n   (Arrival Time: 1
- 2:10 PM (Eastern Time (US & Canada))) 
-LAST-MODIFIED:20261105T132921
-LOCATION:315 Turnpike St\, North Andover\, MA 01845
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Bay State Breakers
 DTSTART;TZID=America/New_York:20261108T132000
 DTEND;TZID=America/New_York:20261108T132000
-DTSTAMP:20260807T131543
+DTSTAMP:20261106T151115
 UID:9277555-371264028
 SEQUENCE:0
 DESCRIPTION:Location: Hobomock Rink - Rink 1\n   (Arrival Time:  1:20 PM (
  Eastern Time (US & Canada))) 
-LAST-MODIFIED:20260807T131543
+LAST-MODIFIED:20261106T151115
 LOCATION:132 Hobomock St\, Pembroke\, MA 02359
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - Practice
+DTSTART;TZID=America/New_York:20261109T200047
+DTEND;TZID=America/New_York:20261109T200047
+DTSTAMP:20261106T135120
+UID:9277555-376130699
+SEQUENCE:0
+DESCRIPTION:Location: Salem Ice Center\n   (Arrival Time:  8:00 PM (Easter
+ n Time (US & Canada))) 
+LAST-MODIFIED:20261106T135120
+LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - practice
@@ -564,6 +564,18 @@ DESCRIPTION:Location: Salem Ice Center - Olympic rink\n   (Arrival Time:
  2:50 PM (Eastern Time (US & Canada))) 
 LAST-MODIFIED:20261105T151550
 LOCATION:60 Lowell Rd\nSalem NH 03079\nUnited States
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) vs Minuteman Flames
+DTSTART;TZID=America/New_York:20261115T121000
+DTEND;TZID=America/New_York:20261115T121000
+DTSTAMP:20261106T141331
+UID:9277555-376131722
+SEQUENCE:0
+DESCRIPTION:Location: New England Sports Center\n   (Arrival Time: 12:10 P
+ M (Eastern Time (US & Canada))) 
+LAST-MODIFIED:20261106T141331
+LOCATION:121 Donald J Lynch Blvd Marlborough\, MA\, United States
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rylan - Top Gun: 2014 Top Gun (Connors) - practice
