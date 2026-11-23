@@ -1313,7 +1313,7 @@ DTEND;TZID=America/New_York:20260403T184500
 DTSTAMP:20260331T155041Z
 UID:6e1d3e6f-d28a-48b3-b357-a1b113941568@sportsengine.com
 SEQUENCE:1774972242
-LOCATION:187 Hampstead Road\, Derry\, NH 03038-4835\, US
+LOCATION:Northeast Elite Athletics
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ainsley - Lacrosse: Nashua Blast 08UGC Blue at Derry Girls 08UGC A
@@ -1330,7 +1330,7 @@ DESCRIPTION:https://sportsengine.app.link/?al=sportsengine%3A%2F%2Fevent%2
  -2a55-c400-970b-220e142d18ed%2Fschedule%2Fevent%2F82ba9296-eaae-4037-af86-
  82b38ef076e4%3Fresource_id%3D82ba9296-eaae-4037-af86-82b38ef076e4%26team_i
  d%3D11f101ef-2a55-c400-970b-220e142d18ed%26type%3Dgame
-LOCATION:18 Dubeau Drive\, Derry\, NH 03038-4832
+LOCATION:East Derry Memorial Elementary
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ainsley - Lacrosse: Manchester 08UGC Thunder at Derry Girls 08UGC 
@@ -1347,7 +1347,7 @@ DESCRIPTION:https://sportsengine.app.link/?al=sportsengine%3A%2F%2Fevent%2
  -2a55-c400-970b-220e142d18ed%2Fschedule%2Fevent%2Fb2cfb629-eef7-4473-8821-
  4efda6c04e8a%3Fresource_id%3Db2cfb629-eef7-4473-8821-4efda6c04e8a%26team_i
  d%3D11f101ef-2a55-c400-970b-220e142d18ed%26type%3Dgame
-LOCATION:18 Dubeau Drive\, Derry\, NH 03038-4832
+LOCATION:East Derry Memorial Elementary
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ainsley - Lacrosse: Weare 08UGC Generals at Derry Girls 08UGC Astr
@@ -1364,7 +1364,7 @@ DESCRIPTION:https://sportsengine.app.link/?al=sportsengine%3A%2F%2Fevent%2
  -2a55-c400-970b-220e142d18ed%2Fschedule%2Fevent%2F13bc29a3-d3b6-413b-8ab8-
  f6756d1dac75%3Fresource_id%3D13bc29a3-d3b6-413b-8ab8-f6756d1dac75%26team_i
  d%3D11f101ef-2a55-c400-970b-220e142d18ed%26type%3Dgame
-LOCATION:18 Dubeau Drive\, Derry\, NH 03038-4832
+LOCATION:East Derry Memorial Elementary
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ainsley - Lacrosse: Pelham 08UGC Outlaws at Derry Girls 08UGC Astr
@@ -1381,7 +1381,7 @@ DESCRIPTION:https://sportsengine.app.link/?al=sportsengine%3A%2F%2Fevent%2
  -2a55-c400-970b-220e142d18ed%2Fschedule%2Fevent%2F6afbc476-63d4-4df9-8e88-
  9e4afb50d6b3%3Fresource_id%3D6afbc476-63d4-4df9-8e88-9e4afb50d6b3%26team_i
  d%3D11f101ef-2a55-c400-970b-220e142d18ed%26type%3Dgame
-LOCATION:18 Dubeau Drive\, Derry\, NH 03038-4832\, US
+LOCATION:East Derry Memorial Elementary
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ainsley - Lacrosse: Derry Girls 08UGC Astros White at HB Lax 08UGC
@@ -1398,7 +1398,7 @@ DESCRIPTION:https://sportsengine.app.link/?al=sportsengine%3A%2F%2Fevent%2
  -2a55-c400-970b-220e142d18ed%2Fschedule%2Fevent%2F2d4377e2-bb43-4d8e-80b4-
  cf9f842f2c24%3Fresource_id%3D2d4377e2-bb43-4d8e-80b4-cf9f842f2c24%26team_i
  d%3D11f101ef-2a55-c400-970b-220e142d18ed%26type%3Dgame
-LOCATION:24 Cavalier Court\, Hollis\, NH 03049-6600
+LOCATION:Hollis Brookline High School
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ainsley - Lacrosse: Fundraiser @ chipotle Salem 
@@ -1407,7 +1407,7 @@ DTEND;TZID=America/New_York:20260513T210000
 DTSTAMP:20260312T161422Z
 UID:7b26f25f-0ca8-43d1-8ca4-1bf410d96b28@sportsengine.com
 SEQUENCE:1773332063
-LOCATION:12 South Village Drive\, Salem\, NH 03079\, US
+LOCATION:Chipotle Mexican Grill
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ainsley - Lacrosse: Derry Girls 08UGC Astros White at Abenaki 08UG
@@ -1424,7 +1424,7 @@ DESCRIPTION:https://sportsengine.app.link/?al=sportsengine%3A%2F%2Fevent%2
  -2a55-c400-970b-220e142d18ed%2Fschedule%2Fevent%2F95fd1d73-98ea-45ce-95f4-
  7f45ef9f7950%3Fresource_id%3D95fd1d73-98ea-45ce-95f4-7f45ef9f7950%26team_i
  d%3D11f101ef-2a55-c400-970b-220e142d18ed%26type%3Dgame
-LOCATION:10 Trotting Track Road\, Wolfeboro\, NH 03894
+LOCATION:Nicholas J. Pernokas Recreation Park
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ainsley - Lacrosse: Derry Girls 08UGC Astros White at Hopkinton 08
@@ -1441,7 +1441,7 @@ DESCRIPTION:https://sportsengine.app.link/?al=sportsengine%3A%2F%2Fevent%2
  -2a55-c400-970b-220e142d18ed%2Fschedule%2Fevent%2F6c3a9a84-f5eb-4bf4-a5d9-
  1bb922e0bf3e%3Fresource_id%3D6c3a9a84-f5eb-4bf4-a5d9-1bb922e0bf3e%26team_i
  d%3D11f101ef-2a55-c400-970b-220e142d18ed%26type%3Dgame
-LOCATION:Houston Fields\, Hopkinton\, NH 03229\, US
+LOCATION:Houston Fields
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ainsley - Lacrosse: Plymouth 08UGC Blue at Derry Girls 08UGC Astro
@@ -1458,7 +1458,7 @@ DESCRIPTION:https://sportsengine.app.link/?al=sportsengine%3A%2F%2Fevent%2
  -2a55-c400-970b-220e142d18ed%2Fschedule%2Fevent%2F64b987d2-2c24-4909-82ae-
  b75a71827588%3Fresource_id%3D64b987d2-2c24-4909-82ae-b75a71827588%26team_i
  d%3D11f101ef-2a55-c400-970b-220e142d18ed%26type%3Dgame
-LOCATION:18 Dubeau Drive\, Derry\, NH 03038-4832
+LOCATION:East Derry Memorial Elementary
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Owen - Tomahawks: Training
@@ -1467,7 +1467,7 @@ DTEND;TZID=America/New_York:20260115T200000
 DTSTAMP:20260110T134236Z
 UID:892a17d5-4304-47e3-a89c-0316e4701976@sportsengine.com
 SEQUENCE:1768052557
-LOCATION:68 Technology Dr\, Bedford\, NH 03110\, US
+LOCATION:NH Sportsplex
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Owen - Tomahawks: TBD at Boys NH Tomahawks 2034 Gold
@@ -1483,7 +1483,7 @@ DESCRIPTION:https://sportsengine.app.link/?al=sportsengine%3A%2F%2Fevent%2
  -f57e-5404-96ce-86828656c889%2Fschedule%2Fevent%2F347e439a-d872-49ca-8438-
  65d7e9129245%3Fresource_id%3D347e439a-d872-49ca-8438-65d7e9129245%26team_i
  d%3D11f0ed9e-f57e-5404-96ce-86828656c889%26type%3Dgame
-LOCATION:68 Technology Dr\, Bedford\, NH 03110
+LOCATION:NH Sportsplex
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Owen - Tomahawks: Training
@@ -1492,7 +1492,7 @@ DTEND;TZID=America/New_York:20260129T200000
 DTSTAMP:20260110T134438Z
 UID:f7724738-6759-4736-b8ff-49a674042a3c@sportsengine.com
 SEQUENCE:1768052679
-LOCATION:68 Technology Dr\, Bedford\, NH 03110\, US
+LOCATION:NH Sportsplex
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Owen - Tomahawks: Training
@@ -1501,7 +1501,7 @@ DTEND;TZID=America/New_York:20260212T200000
 DTSTAMP:20260110T134627Z
 UID:90a4e061-e920-434e-a7d5-41af8b301595@sportsengine.com
 SEQUENCE:1768052788
-LOCATION:68 Technology Dr\, Bedford\, NH 03110\, US
+LOCATION:NH Sportsplex
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Owen - Tomahawks: Practice
@@ -1510,7 +1510,7 @@ DTEND;TZID=America/New_York:20260320T190000
 DTSTAMP:20260110T140340Z
 UID:9f55d0e8-12f9-466e-9896-47cdeb8aaf6d@sportsengine.com
 SEQUENCE:1768053821
-LOCATION:15 Camp Allen Rd\, Bedford\, NH 03110\, US
+LOCATION:Back River Sports Complex
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Owen - Tomahawks: Practice
@@ -1519,7 +1519,7 @@ DTEND;TZID=America/New_York:20260327T190000
 DTSTAMP:20260110T135419Z
 UID:fc0c9134-e5fc-4894-8c0e-b00266bee9bf@sportsengine.com
 SEQUENCE:1768053260
-LOCATION:15 Camp Allen Rd\, Bedford\, NH 03110\, US
+LOCATION:Back River Sports Complex
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Owen - Tomahawks: Games time is TBD
@@ -1528,7 +1528,7 @@ DTEND;TZID=America/St_Johns:20260404T235959
 DTSTAMP:20260110T132910Z
 UID:187372ec-63b6-487c-a0a1-5f1103b661e9@sportsengine.com
 SEQUENCE:1768051751
-LOCATION:100 Game On Way\, Fitchburg\, MA 01420\, US
+LOCATION:Game On Fitchburg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Owen - Tomahawks: Practice
@@ -1537,7 +1537,7 @@ DTEND;TZID=America/New_York:20260410T190000
 DTSTAMP:20260110T135419Z
 UID:07a1b844-2acf-415e-a25c-343d79a6ee45@sportsengine.com
 SEQUENCE:1768053260
-LOCATION:15 Camp Allen Rd\, Bedford\, NH 03110\, US
+LOCATION:Back River Sports Complex
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Owen - Tomahawks: Games time is TBD
@@ -1546,7 +1546,7 @@ DTEND;TZID=America/New_York:20260411T235959
 DTSTAMP:20260110T133418Z
 UID:a10e13be-a590-4cd0-92f3-a8d1b0ca6f4f@sportsengine.com
 SEQUENCE:1768052059
-LOCATION:100 Game On Way\, Fitchburg\, MA 01420\, US
+LOCATION:Game On Fitchburg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Owen - Tomahawks: Practice
@@ -1555,7 +1555,7 @@ DTEND;TZID=America/New_York:20260417T190000
 DTSTAMP:20260110T135419Z
 UID:9c561655-bd9c-416c-ad8c-deaebc599d2f@sportsengine.com
 SEQUENCE:1768053260
-LOCATION:15 Camp Allen Rd\, Bedford\, NH 03110\, US
+LOCATION:Back River Sports Complex
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Owen - Tomahawks: Practice
@@ -1564,7 +1564,7 @@ DTEND;TZID=America/New_York:20260424T190000
 DTSTAMP:20260413T112712Z
 UID:a328afc2-cd88-494c-b3d6-1c2b8d865536@sportsengine.com
 SEQUENCE:1776079633
-LOCATION:15 Camp Allen Rd\, Bedford\, NH 03110\, US
+LOCATION:Back River Sports Complex
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Owen - Tomahawks: Games time is TBD
@@ -1573,7 +1573,7 @@ DTEND;TZID=America/New_York:20260425T235959
 DTSTAMP:20260110T133833Z
 UID:512eef09-eea5-4810-b928-f4b33e153dfc@sportsengine.com
 SEQUENCE:1768052314
-LOCATION:100 Game On Way\, Fitchburg\, MA 01420\, US
+LOCATION:Game On Fitchburg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Owen - Tomahawks: Practice
@@ -1582,7 +1582,7 @@ DTEND;TZID=America/New_York:20260501T190000
 DTSTAMP:20260110T135419Z
 UID:21263d94-a7d2-4eaa-b529-207df201466b@sportsengine.com
 SEQUENCE:1768053260
-LOCATION:15 Camp Allen Rd\, Bedford\, NH 03110\, US
+LOCATION:Back River Sports Complex
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Owen - Tomahawks: Games time is TBD
@@ -1591,7 +1591,7 @@ DTEND;TZID=America/New_York:20260502T235959
 DTSTAMP:20260110T133545Z
 UID:24719bf3-5fca-4790-8f11-776b4c8254d0@sportsengine.com
 SEQUENCE:1768052146
-LOCATION:100 Game On Way\, Fitchburg\, MA 01420\, US
+LOCATION:Game On Fitchburg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Owen - Tomahawks: Practice
@@ -1600,7 +1600,7 @@ DTEND;TZID=America/New_York:20260508T190000
 DTSTAMP:20260110T135419Z
 UID:b16a4dfe-03dc-44cd-92df-9ba26b5046b9@sportsengine.com
 SEQUENCE:1768053260
-LOCATION:15 Camp Allen Rd\, Bedford\, NH 03110\, US
+LOCATION:Back River Sports Complex
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Owen - Tomahawks: Games time is TBD
@@ -1609,7 +1609,7 @@ DTEND;TZID=America/New_York:20260509T235959
 DTSTAMP:20260110T133933Z
 UID:cc9ce72a-d3fc-40d3-b128-9aac312e5ded@sportsengine.com
 SEQUENCE:1768052374
-LOCATION:100 Game On Way\, Fitchburg\, MA 01420\, US
+LOCATION:Game On Fitchburg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Owen - Tomahawks: Practice
@@ -1618,7 +1618,7 @@ DTEND;TZID=America/New_York:20260515T190000
 DTSTAMP:20260513T145419Z
 UID:1c47c7fe-8781-4588-92f4-e7ff7e83c812@sportsengine.com
 SEQUENCE:1778684060
-LOCATION:15 Camp Allen Rd\, Bedford\, NH 03110\, US
+LOCATION:Back River Sports Complex
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Owen - Tomahawks: Games time is TBD
@@ -1627,6 +1627,6 @@ DTEND;TZID=America/New_York:20260516T235959
 DTSTAMP:20260110T133734Z
 UID:6076fc3d-46d4-4f6e-95ca-e0f72dab9cc5@sportsengine.com
 SEQUENCE:1768052255
-LOCATION:100 Game On Way\, Fitchburg\, MA 01420\, US
+LOCATION:Game On Fitchburg
 END:VEVENT
 END:VCALENDAR
